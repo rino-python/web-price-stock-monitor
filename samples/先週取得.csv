@@ -1,0 +1,7 @@
+﻿商品コード,商品名,価格,通貨,在庫,URL
+KM-101,常滑焼の急須,4400,JPY,在庫あり,https://kamome-demo.example.jp/items/kyusu
+KM-102,注染手ぬぐい,1320,JPY,売り切れ,https://kamome-demo.example.jp/items/tenugui
+KM-103,山桜のカッティングボード,8800,JPY,在庫あり,https://kamome-demo.example.jp/items/board
+KM-104,藍染の風呂敷,2750,JPY,在庫あり,https://kamome-demo.example.jp/items/furoshiki
+KM-106,越前和紙の便箋,880,JPY,在庫あり,https://kamome-demo.example.jp/items/letter
+KM-199,旧作の茶托,1100,JPY,在庫あり,https://kamome-demo.example.jp/items/chataku

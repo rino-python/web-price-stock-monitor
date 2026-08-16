@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+*.log
+.DS_Store
+Thumbs.db
+output/
+samples/*_確認用.xlsx
